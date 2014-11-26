@@ -8,5 +8,7 @@ Simple registration form for Pley.
 4. should render correctly on android/ios/firefox/chrome/safari/ie
 
 Using jQuery and jQuery validation plugin
+
 Using LESS.js for CSS preprocessing, compiled to CSS for production
+
 Using Various CDN's where available
